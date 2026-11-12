@@ -36,7 +36,7 @@ The landscape prediction shown below uses altitude, slope, aspect, precipitation
 
 See the publication for detailed sampling methods, data sources, predictor variables, and model settings.
 
-![Elephant habitat suitability prediction](Elephant-suitability-prediction.png)
+![Elephant habitat suitability prediction](map-elephant-suitability-prediction.png)
 
 *Appendix 5 from Sharma et al. (2019): elephant distribution prediction based on altitude, slope, aspect, precipitation, and temperature using a boosted regression tree model.*
 
