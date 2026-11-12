@@ -51,14 +51,6 @@ The background imagery provides geographic context and should be distinguished f
 - Spatial analysis supporting habitat suitability modeling
 - Map preparation and communication of spatial predictions
 
-## Interpretation and limitations
-
-Predictions depend on the sampling design, available observations, environmental predictors, and model assumptions.
-
-The mapped prediction uses only predictors available across the landscape. It does not include every habitat variable assessed during fieldwork.
-
-The apparent detail of the map should not be interpreted as equivalent detail in the underlying environmental data. Resampling a raster to smaller cells does not add new environmental information.
-
 ## Repository contents
 
 - `study-area-and-sampling.png` — published study-area and sampling map
